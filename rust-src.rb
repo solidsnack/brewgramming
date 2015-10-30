@@ -19,7 +19,7 @@ class RustSrc < Formula
         <plist version="1.0">
         <dict>
         <key>Label</key>
-        <string>setenv.RUST_SRC_PATH</string>
+        <string>homebrew.mxcl.rust-src</string>
         <key>ProgramArguments</key>
         <array>
           <string>/bin/launchctl</string>
